@@ -12,12 +12,12 @@ I work with [Lisa DeBruine](https://github.com/debruine)
 
   07-11-1994 Poggibonsi (SI), Italy.
 
-  * My Family:
+  My Family:
     * Dad: Lanfranco 60
     * Mum: Rossana 59
     * Sisters:
-      ** Sofia, 25
-      ** Ilaria, 19
+      * Sofia, 25
+      * Ilaria, 19
     * Brother: Dario, 17
 
 #Study
