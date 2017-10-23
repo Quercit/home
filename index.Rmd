@@ -16,8 +16,8 @@ I work with [Lisa DeBruine](https://github.com/debruine)
     * Dad: Lanfranco 60
     * Mum: Rossana 59
     * Sisters:
-      * Sofia, 25
-      * Ilaria, 19
+      ** Sofia, 25
+      ** Ilaria, 19
     * Brother: Dario, 17
 
 #Study
