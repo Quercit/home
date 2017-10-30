@@ -1,7 +1,7 @@
 ---
 title: "Tommaso Querci"
 ---
-
+![](images/profilepic.jpg)
 I am a postgraduate student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
 
