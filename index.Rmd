@@ -2,9 +2,9 @@
 title: "Tommaso Querci"
 ---
 <img src="images/profilepic.jpg" 
-  style="width: 50%"; 
-       float: right;
-       padding-left: 10px;"> 
+  style="width: 33%; 
+       float: left;
+       padding-right: 10px;"> 
        
 I am a postgraduate student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
@@ -14,11 +14,11 @@ I work with [Lisa DeBruine](https://github.com/debruine)
 
 #Study
 
-  2017 - Now [Research Methods in Psychology] (https://www.gla.ac.uk/postgraduate/taught/psychologicalscienceresearchmethodsof/) at University of Glasgow 
+  2017 - Now [Research Methods in Psychology](https://www.gla.ac.uk/postgraduate/taught/psychologicalscienceresearchmethodsof/) at University of Glasgow 
 
-  2013 - 2017 [Social & Organizations Psychology] (http://didattica.unipd.it/off/2016/LT/PS/PS1085) at University of Padua, Italy.
+  2013 - 2017 [Social & Organizations Psychology](http://didattica.unipd.it/off/2016/LT/PS/PS1085) at University of Padua, Italy.
 
-  2008 - 2013 [Science High School] (http://www.liceovolta.org/) in Colle Val d'Elsa, Italy.
+  2008 - 2013 [Science High School](http://www.liceovolta.org/) in Colle Val d'Elsa, Italy.
 
 #Reseach Interest
 
