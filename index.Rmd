@@ -1,15 +1,16 @@
 ---
-title: "Tommaso Querci"
+title: "  "
 ---
-<img src="images/profilepic.jpg" 
-  style="width: 33%; 
-       float: left;
-       padding-right: 10px;"> 
        
 I am a postgraduate student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
 
 I work with [Lisa DeBruine](https://github.com/debruine)
+
+<img src="images/profilepic.jpg" 
+  style="width: 20%; 
+       float: left;
+       padding-right: 10px;"> 
 
 
 #Study

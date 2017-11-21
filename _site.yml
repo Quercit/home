@@ -3,10 +3,16 @@ author: Tommaso Querci
 output_dir: docs
 output:
   html_document:
-    theme: cosmo
+    theme: lumen
     css: style.css
     lib_dir: site_libs
     self_contained: no
-navbar:
-  title: My very First Webpage
-
+navbar:  
+  title: "Tommaso Querci" 
+  left:
+    - text: About
+      href: Publications.html
+    - text: Research
+      href: Publications.html#posters
+    - text: Contact
+      href: contact.html
