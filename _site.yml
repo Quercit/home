@@ -11,8 +11,8 @@ navbar:
   title: "Tommaso Querci" 
   left:
     - text: About
-      href: Publications.html
+      href: about.html
     - text: Research
-      href: Publications.html#posters
+      href: research.html
     - text: Contact
       href: contact.html

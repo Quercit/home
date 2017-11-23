@@ -1,0 +1,12 @@
+---
+title: "Research"
+output: html_document
+---
+
+#Study
+
+  2017 - Now 
+  [Research Methods in Psychology](https://www.gla.ac.uk/postgraduate/taught/psychologicalscienceresearchmethodsof/) at University of Glasgow 
+
+  2013 - 2017 
+  [Social & Organizations Psychology](http://didattica.unipd.it/off/2016/LT/PS/PS1085) at University of Padua, Italy.

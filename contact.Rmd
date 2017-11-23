@@ -1,9 +1,6 @@
 ---
 title: "Contact"
-output:
-  html_document:
-    toc: true
-    toc_float: true
+output: html_document
 ---
 
 email: querci.tommaso.tq@gmail.com

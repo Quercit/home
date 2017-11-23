@@ -1,9 +1,6 @@
 ---
-title: "Research"
-output:
-  html_document:
-    toc: true
-    toc_float: true
+title: "About"
+output: html_document
 ---
 
   I obtained my BA degree in Social Psychology at University of Padua in September 2017, with an experimental thesis on   2D-3D face recognition result of the work carried out in the [FaceLab](facelab.org). I am now working in that same Lab for my MSc in Research Methods of Psychological Science, within the KINSHIP project.
