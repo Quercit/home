@@ -3,13 +3,20 @@ title: "Tommaso Querci "
 ---
       
 
-<img src="images/prof.jpg" 
-  style="width: 40%; 
+Postgraduate student at [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/), [University of Glasgow](https://www.gla.ac.uk/), with [Lisa DeBruine](https://github.com/debruine)
+
+
+[<img src="images/profG.jpg" 
+  style="width: 33%; 
        float: left;
-       padding-right: 10px;"> 
-
-
-I am a postgraduate student at [University of Glasgow](https://www.gla.ac.uk/)
-
-I work in the [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/) with [Lisa DeBruine](https://github.com/debruine)
-
+       padding-right: 10px;">](https://quercit.github.io/home/about.html) 
+       
+[<img src="images/uofg.jpg" 
+  style="width: 33%; 
+       float: left;
+       padding-right: 10px;">](https://quercit.github.io/home/research.html)
+       
+ [<img src="images/bookshelfR.jpg" 
+  style="width: 33%; 
+       float: left;(
+       padding-right: 10px;">](https://quercit.github.io/home/bookshelf.html)
