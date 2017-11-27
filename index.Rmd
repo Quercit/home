@@ -9,14 +9,14 @@ Postgraduate student at [Institute of Neuroscience and Psychology](http://www.gl
 [<img src="images/profG.jpg" 
   style="width: 33%; 
        float: left;
-       padding-right: 10px;">](https://quercit.github.io/home/about.html) 
+       padding-right: 10px;">](about.html) 
        
-[<img src="images/uofg.jpg" 
+[<img src="images/uofg1.jpg" 
   style="width: 33%; 
        float: left;
-       padding-right: 10px;">](https://quercit.github.io/home/research.html)
+       padding-right: 10px;">](research.html)
        
- [<img src="images/bookshelfR.jpg" 
+ [<img src="images/bookshelf_R.jpg" 
   style="width: 33%; 
-       float: left;(
-       padding-right: 10px;">](https://quercit.github.io/home/bookshelf.html)
+       float: left;
+       padding-right: 10px;">](bookshelf.html)

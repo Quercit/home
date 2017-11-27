@@ -2,7 +2,11 @@
 title: "Research"
 output: html_document
 ---
-
+<img src="images/uofg_plain.jpg" 
+  style="width: 33%; 
+       float: left;
+       padding-right: 10px;">
+       
 #Study
 
   2017 - Now 

@@ -7,14 +7,15 @@ output:
     css: style.css
     lib_dir: site_libs
     self_contained: no
-navbar:  
-  title: "Tommaso Querci" 
-  left:
-    - text: About
-      href: about.html
-    - text: Research
-      href: research.html
-    - text: Bookshelf
-      href: bookshelf.html
-    - text: Contact
-      href: about.html#Contacts
+navbar:
+  title: Tommaso Querci
+  right:
+  - text: About
+    href: about.html
+  - text: Research
+    href: research.html
+  - text: Bookshelf
+    href: bookshelf.html
+  - text: Contact
+    href: about.html#Contact me
+

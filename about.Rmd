@@ -3,9 +3,45 @@ title: "About"
 output: html_document
 ---
 
-  I obtained my BA degree in Social Psychology at University of Padua in September 2017, with an experimental thesis on   2D-3D face recognition result of the work carried out in the [FaceLab](facelab.org). I am now working in that same Lab for my MSc in Research Methods of Psychological Science, within the KINSHIP project.
+<img src="images/profile.jpg" 
+  style="width: 33%; 
+       float: left;
+       padding-right: 30px;
+       padding-bottom: 1000px">
+   
+#Personal History
+  
+  I was born in Tuscany in November of 1994. 
+  
+  Second of four siblings, I spent the first part of my life in a very little town called Belforte (literally: strong and beautiful) discovering with passion the wonders of nature and animals. 
+  
+  My days there circled around few activities: going to school, playing football, playing the cello, and chasing my dream of becoming a magician. Also, I used to read lots of books, many more than what I manage to read now.
+  
+  Since always led by a deep curiosity about people, minds, behaviours, and their evolution, after the high school I undertook the path of Psychology and left home for the first time: one of the best Univeristies in Italy had accepted my application!
+  
+  University gave me much clearer formulations for my questions, but very few answers regarding the mind and the counsciosness; so I decided to takle the issue from an evolutionary point of view. 
+  
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+  
+#Studies
+    
+  In September 2017 I obtained my BA degree in Social Psychology at University of Padua with an experimental thesis on   2D-3D face recognition, result of the work carried out in the [FaceLab](facelab.org). 
+  
+  Since after that I am working in that same Lab for my MSc in Research Methods of Psychological Science, at University of Glasgow.
 
   My current research focuses on the understanding of how humans recognise their kin. More specifically, what kind of cues in the face let others to assest the relatedness between two individuals.
   
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
   
-  #Contacts
+  
+#Contact me
+  
+  <img src="images/mail.png"
+ style="width: 20px"> [2356605q@student.gla.ac.uk](2356605q@student.gla.ac.uk)
+  
+ <a href="https://orcid.org/0000-0003-1603-6019" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-1603-6019</a>
+ 
+ <a target="_blank" title="follow me on facebook" href="http://www.facebook.com/tommaso.querci.5"><img alt="follow me on facebook" src="https://c866088.ssl.cf3.rackcdn.com/assets/facebook30x30.png" border=0></a>     <a target="_blank" title="follow me on Twitter" href="http://www.twitter.com/tommy_oak"><img alt="follow me on Twitter" src="https://c866088.ssl.cf3.rackcdn.com/assets/twitter30x30.png" border=0></a> [<img src="images/RG_square_green.jpg"
+ style="width: 30px">](https://www.researchgate.net/profile/Tommaso_Querci) [<img src="images/osf_logo.png"
+ style="width: 30px">](https://www.osf.io/xj5kp)  [<img src="images/github-logo.png"
+ style="width: 30px">](https://github.com/Quercit)

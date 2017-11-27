@@ -1,5 +1,11 @@
 ---
-title: "bookshelf"
+title: "Bookshelf"
 output: html_document
 ---
 
+<img src="images/bookshelf_plain.jpeg" 
+  style="width: 33%; 
+       float: left;
+       padding-right: 10px;">
+       
+       
