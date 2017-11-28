@@ -20,4 +20,5 @@ output: html_document
 
   In September 2017 I obtained my BA degree in Social Psychology at University of Padua with an experimental thesis on   2D-3D face recognition, result of the work carried out in the [FaceLab](facelab.org). 
   
-  The research was aimed to compare third-party kinship judgments using 2D and 3D face stimuli, you can find more about this study on the [pre-registration page](https://osf.io/8xnt9/) or you can have a look at the <a href ="https://quercit.github.io/docs/Quercit_Poster.pdf">Click here for the pdf file called flowers.</a>
+  The research was aimed to compare third-party kinship judgments using 2D and 3D face stimuli, you can find more about this study on the [pre-registration page](https://osf.io/8xnt9/) or you can have a look at the 
+  <a href =Quercit_Poster.html>research Poster.</a>
