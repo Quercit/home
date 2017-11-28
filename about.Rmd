@@ -7,7 +7,7 @@ output: html_document
   style="width: 33%; 
        float: left;
        padding-right: 30px;
-       padding-bottom: 1000px">
+       padding-bottom: 400px">
    
 #Personal History
   
