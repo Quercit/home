@@ -5,16 +5,16 @@ title: "Tommaso Querci "
 
 Postgraduate student at [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/), [University of Glasgow](https://www.gla.ac.uk/), with [Lisa DeBruine](https://github.com/debruine)
 
+[<img src="images/uofg1.jpg" 
+  style="width: 33%; 
+       float: left;
+       padding-right: 10px;">](research.html)
 
 [<img src="images/profG.jpg" 
   style="width: 33%; 
        float: left;
        padding-right: 10px;">](about.html) 
        
-[<img src="images/uofg1.jpg" 
-  style="width: 33%; 
-       float: left;
-       padding-right: 10px;">](research.html)
        
  [<img src="images/bookshelf_R.jpg" 
   style="width: 33%; 

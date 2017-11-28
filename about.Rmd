@@ -19,13 +19,13 @@ output: html_document
   
   Since always led by a deep curiosity about people, minds, behaviours, and their evolution, after the high school I undertook the path of Psychology and left home for the first time: one of the best Univeristies in Italy had accepted my application!
   
-  University gave me much clearer formulations for my questions, but very few answers regarding the mind and the counsciosness; so I decided to takle the issue from an evolutionary point of view. 
+  University gave me much clearer formulations for my questions, but very few answers regarding the mind and the counsciosness; and I decided to takle the issue from an evolutionary point of view. 
   
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
   
 #Studies
     
-  In September 2017 I obtained my BA degree in Social Psychology at University of Padua with an experimental thesis on   2D-3D face recognition, result of the work carried out in the [FaceLab](facelab.org). 
+  In September 2017 I obtained my BA degree in Social Psychology at University of Padua with an experimental thesis on   2D-3D face recognition, result of the work carried out with the [FaceLab](facelab.org). 
   
   Since after that I am working in that same Lab for my MSc in Research Methods of Psychological Science, at University of Glasgow.
 
