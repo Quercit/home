@@ -21,7 +21,7 @@ output: html_document
   
   University gave me much clearer formulations for my questions, but very few answers regarding the mind and the counsciosness; and I decided to takle the issue from an evolutionary point of view. 
   
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
   
 #Studies
     
@@ -31,7 +31,7 @@ output: html_document
 
   My current research focuses on the understanding of how humans recognise their kin. More specifically, what kind of cues in the face let others to assest the relatedness between two individuals.
   
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
   
   
 #Contact me
@@ -41,7 +41,15 @@ output: html_document
   
  <a href="https://orcid.org/0000-0003-1603-6019" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-1603-6019</a>
  
- <a target="_blank" title="follow me on facebook" href="http://www.facebook.com/tommaso.querci.5"><img alt="follow me on facebook" src="https://c866088.ssl.cf3.rackcdn.com/assets/facebook30x30.png" border=0></a>     <a target="_blank" title="follow me on Twitter" href="http://www.twitter.com/tommy_oak"><img alt="follow me on Twitter" src="https://c866088.ssl.cf3.rackcdn.com/assets/twitter30x30.png" border=0></a> [<img src="images/RG_square_green.jpg"
- style="width: 30px">](https://www.researchgate.net/profile/Tommaso_Querci) [<img src="images/osf_logo.png"
- style="width: 30px">](https://www.osf.io/xj5kp)  [<img src="images/github-logo.png"
+ <a target="_blank" title="follow me on facebook" href="http://www.facebook.com/tommaso.querci.5"><img alt="follow me on facebook" src="https://c866088.ssl.cf3.rackcdn.com/assets/facebook30x30.png" border=0></a>    
+ 
+ <a target="_blank" title="follow me on Twitter" href="http://www.twitter.com/tommy_oak"><img alt="follow me on Twitter" src="https://c866088.ssl.cf3.rackcdn.com/assets/twitter30x30.png" border=0></a> 
+ 
+ [<img src="images/RG_square_green.jpg"
+ style="width: 30px">](https://www.researchgate.net/profile/Tommaso_Querci)
+ 
+ [<img src="images/osf_logo.png"
+ style="width: 30px">](https://www.osf.io/xj5kp) 
+ 
+ [<img src="images/github-logo.png"
  style="width: 30px">](https://github.com/Quercit)
