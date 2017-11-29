@@ -17,5 +17,5 @@ navbar:
   - text: Bookshelf
     href: bookshelf.html
   - text: Contact
-    href: about.html#Contact me
+    href: about.html#Contact
 

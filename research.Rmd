@@ -5,19 +5,51 @@ output: html_document
 <img src="images/uofg_plain.jpg" 
   style="width: 33%; 
        float: left;
-       padding-right: 10px;
-       padding-bottom: 400px">
+       padding-right: 20px;
+       padding-bottom: 500px">
        
-#Study
 
-  2017 — 2018 
-  [Research Methods in Psychology](https://www.gla.ac.uk/postgraduate/taught/psychologicalscienceresearchmethodsof/) at University of Glasgow 
-  
-  
-  2013 — 2017 
-  [Social & Organizations Psychology](http://didattica.unipd.it/off/2016/LT/PS/PS1085) at University of Padua, Italy.
+#Experiments
 
+###• 2018
+[Research Methods in Psychology](https://www.gla.ac.uk/postgraduate/taught/psychologicalscienceresearchmethodsof/) MA degree at University of Glasgow.
+  
+  My Master's project is a methodological study that investigates the perception of relatedness of real and "virtual" siblings in both 2D and 3D faces.
+  
+  Many previous studies on the effect of kinship cues on prosocial and sexual attitudes have employed morphologically manipulated faces, on the assumption that a high similarity between two faces can increase the perceived relatedness (Maloney & Dal Martello, 2006).
+
+  To test whether this morphing procedure results in faces that are actually perceived as related to the original, we compare third-party judgments of relatedness of “virtual” and real siblings. 
+
+  We are also testing whether 3D visualisation influences these judgments.
+
+  
+###• 2017
+[Social & Organizations Psychology](http://didattica.unipd.it/off/2016/LT/PS/PS1085) BA degree at University of Padua, Italy.
 
   In September 2017 I obtained my BA degree in Social Psychology at University of Padua with an experimental thesis on   2D-3D face recognition, result of the work carried out in the [FaceLab](facelab.org). 
   
   The research was aimed to compare third-party kinship judgments using 2D and 3D face stimuli, you can find more about this study on the [pre-registration page](https://osf.io/8xnt9/) or you can have a look at the [research Poster](https://drive.google.com/file/d/1LZNEvrSnp3i1FI-tLeIIBoweJbI3FekF/view?usp=sharing)
+  
+###• 2016
+  At University of Padua, I assisted Prof.s Peter Kramer & Paola Bressan in a cognitive experiment that investigated the effects of autistic and schizophrenic tendencies, exposure to certain colours, and presentation time on particular kinds of visual illusions.
+  
+#Skills 
+
+During my years of study and internship I gained valuable competence on a range of softwares and programs for research, data analysis, and experimental procedure.
+
+###• R		
+Advanced statistics (GLM, LMEMs, permutation test) and web 
+page creation (HTML, CSS)
+
+###• E-Prime
+Methodology for cognitive psychology experiment
+
+###• PsychoMorph/WebMorph		
+Delineation and manipulation of 2D facial images
+
+###• MorphAnalyser 		
+Delineation and manipulation of 3D facial images
+
+###• DI3D System		
+3D photos capture and editing
+

@@ -9,21 +9,21 @@ output: html_document
        padding-right: 30px;
        padding-bottom: 400px">
    
-#Personal History
+#Life
   
-  I was born in Tuscany in November of 1994. 
+  I was born in Tuscany the 7th of November 1994. 
   
-  Second of four siblings, I spent the first part of my life in a very little town called Belforte (literally: strong and beautiful) discovering with passion the wonders of nature and animals. 
+  Second of four siblings, I spent the first part of my life in a very little town called Belforte (literally: strong and beautiful) where I discovered the wonders of the nature and the animals. 
   
   My days there circled around few activities: going to school, playing football, playing the cello, and chasing my dream of becoming a magician. Also, I used to read lots of books, many more than what I manage to read now.
   
-  Since always led by a deep curiosity about people, minds, behaviours, and their evolution, after the high school I undertook the path of Psychology and left home for the first time: one of the best Univeristies in Italy had accepted my application!
+ Led since I rembember by a deep curiosity about people, minds, behaviours, and their evolution, after the high school I undertook the path of Psychology and left home for the first time: one of the best Univeristies in Italy had accepted my application!
   
-  University gave me much clearer formulations for my questions, but very few answers regarding the mind and the counsciosness; and I decided to takle the issue from an evolutionary point of view. 
+  University gave me much clearer formulations for my questions, but very few answers regarding the mind and the counsciosness; but in that period I also realized the importance of the scientific method, and decided to takle the issue from an evolutionary point of view. 
   
 
   
-#Studies
+#Study
     
   In September 2017 I obtained my BA degree in Social Psychology at University of Padua with an experimental thesis on   2D-3D face recognition, result of the work carried out with the [FaceLab](facelab.org). 
   
@@ -34,7 +34,7 @@ output: html_document
 
   
   
-#Contact me
+#Contact
   
   <img src="images/mail.png"
  style="width: 20px"> [2356605q@student.gla.ac.uk](2356605q@student.gla.ac.uk)
@@ -53,3 +53,5 @@ output: html_document
  
  [<img src="images/github-logo.png"
  style="width: 30px">](https://github.com/Quercit)
+ 
+ All logos from [Elegant Themes](https://www.flaticon.com/packs/elegant-font) under a Creative Commons (CC 3.0) license.
