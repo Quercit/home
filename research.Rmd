@@ -33,22 +33,23 @@ output: html_document
 ###• 2016
   At University of Padua, I assisted Prof.s Peter Kramer & Paola Bressan in a cognitive experiment that investigated the effects of autistic and schizophrenic tendencies, exposure to certain colours, and presentation time on particular kinds of visual illusions.
   
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+  
 #Skills 
 
 During my years of study and internship I gained valuable competence on a range of softwares and programs for research, data analysis, and experimental procedure.
 
 ###• R		
-Advanced statistics (GLM, LMEMs, permutation test) and web 
-page creation (HTML, CSS)
+Advanced statistics (GLM, LMEMs, permutation test), data-wrangling and plotting, web page creation (HTML, CSS)
 
 ###• E-Prime
 Methodology for cognitive psychology experiment
 
 ###• PsychoMorph/WebMorph		
-Delineation and manipulation of 2D facial images
+Delineation and morphing of 2D facial images
 
 ###• MorphAnalyser 		
-Delineation and manipulation of 3D facial images
+Delineation and morphing of 3D facial images
 
 ###• DI3D System		
 3D photos capture and editing

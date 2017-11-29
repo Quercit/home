@@ -16,7 +16,7 @@ output: html_document
        
 ### [Phi: a voyage from the brain to the soul](https://www.amazon.co.uk/Phi-Voyage-Brain-Giulio-Tononi/dp/030790721X) -  [Giulio Tononi](http://integratedinformationtheory.org/):
 
-One of my favourite books ever: Tononi delves into the mysteries of the mind with a allegorical voyage that sees Galileo Galilei as protagonist and that retraces Dante's Divine Comedy in more than a point of view.
+One of my favourite books ever: Tononi delves into the mysteries of the mind with an allegorical voyage that sees Galileo Galilei as protagonist and that retraces Dante's Divine Comedy in more than a point of view.
 
 Each chapter narrates an encounter, a dialouge, and a reflection. Then, the author himself takes the word in the final notes, explaining in plain English what the characters could not.
 
@@ -37,8 +37,10 @@ I am half-way through the second part of this work: [Homo Deus: a brief history 
        
 ###[The selfish gene](https://www.amazon.co.uk/Selfish-Gene-Richard-Dawkins/dp/0192860925) - [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins)
 
-This milestone of evolutionary theory was my first approach to the matter. It was written in 1989, but most of the ideas that it proposed (or their riformulations) are accepted and used broadly in the scientific community. 
+This milestone of evolutionary theory was my first approach to the matter and it deeply shaped my way to look at the world and the animals, homo sapiens included. 
+
+It was written in 1989, but most of the ideas that it proposed (or their future formulation) are accepted and used broadly in the scientific community. 
 
 Dawkins was the first that proposed the idea of a gene-centered view in the evolution and this is the book that any student, regardless of their subject, should read at some point in their life. 
 
-Library (pic by Annie Spratt ©), all books covers from the relative Amazon.uk page.
+(Library pic by Annie Spratt ©, all books covers from the relative Amazon.uk page.)

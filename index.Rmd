@@ -21,7 +21,7 @@ Postgraduate student at [Institute of Neuroscience and Psychology](http://www.gl
        float: left;
        padding-right: 10px;">](bookshelf.html)
        
-Library (pic by Annie Spratt ©)
+(Library pic by Annie Spratt ©)
 
 University of Glasgow: main building © Glasgow City Council. All Rights Reserved.
 
